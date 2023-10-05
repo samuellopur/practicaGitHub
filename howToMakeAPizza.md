@@ -7,4 +7,4 @@
     -Tocino en tiras (Opcional)
     -Aceite de oliva
     -Orégano seco
-    -Sal y pimienta al gusto.
+    -Sal y pimienta al gusto
