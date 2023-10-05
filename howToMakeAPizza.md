@@ -5,7 +5,7 @@
     2.4 Agregue sal al gusto
     2.5 Añada pizca de azucar
     2.6 Mezclar hasta que tenga una textura consistente
-    2.5 Añada harina para la encimera (para que no se pegue)
+    2.5 Añada harina para la encimera (para que no se pegue)git chk
 4. Hornear y porcionar 
 
 Para hornear una pizza proceda a precalentar el horno durante 15 min.
